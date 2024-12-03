@@ -1,10 +1,3 @@
-● The programming project must contain:
-    ○ A project “README” file covering:
-        ■ The purpose of the application
-        ■ The features of the application
-        ■ Any installation steps or requirements, including installation of dependencies
-
-
 # Currency Converter Terminal CLI Application
 
 ## Table Of Contents
